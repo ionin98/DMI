@@ -1,5 +1,4 @@
-    1  whoami
-    2  who
+      
     3  ls
     4  ls -l
     5  ls -a
@@ -35,3 +34,16 @@
    35  cd darbi
    36  history
    37  history > history.txt
+   38  ls -l
+   39  cat history.txt
+   40  clear
+   41  LS -L
+   42  git init
+   43  git add .
+   44  git config --global user.email ionin2@inbox.lv
+   45  git commit -m "20170914_09_30"
+   46  git remote add origin https://github.com/ionin98/DMI.git
+   47  git push origin master
+   48  pwd
+   49  history
+   50  history > history.txt
