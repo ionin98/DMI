@@ -1,0 +1,54 @@
+    1  pwd
+    2  ls -l
+    3  firefox &
+    4  nano
+    5  cat
+    6  ls
+    7  ls -l
+    8  cat git-donwload.sh
+    9  git-download
+   10  whereis ls
+   11  ls -l /bin/ls
+   12  ls -l git-download.sh
+   13  echo $PATH
+   14  cat /bin/ls
+   15  ls -l
+   16  pwd
+   17  echo $PATH
+   18  PATH=$PATH:/home/user
+   19  PATH=$PATH:/home/user /usr/lib/lightdm/lightdm:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games
+   20  PATH=$PATH:/home/userpwd
+   21  PATH=$PATH:/home/user/guest-ZnnfNj@sc108
+   22  ls
+   23  /bin/ls
+   24  /git-download.sh
+   25  ~/git-download.sh
+   26  git-download.sh
+   27  ~git-download.sh
+   28  ls -l
+   29  git-download.sh
+   30  pwd
+   31  PATH=$PATH:/tmp/guest-ZnnfNj
+   32  git-download.sh
+   33  chmod 744 git-download.sh
+   34  ls -l
+   35  git-download.sh
+   36  ls -l
+   37  mv git-download.sh git-download
+   38  ls -l
+   39  cat git-download 
+   40  la -l
+   41  ls -l
+   42  cd DMI
+   43  ls -la
+   44  pwd
+   45  ls -la
+   46  cp /tmp/guest-ZnnfNj@sc108 git-download
+   47  cp ../git-download 
+   48  cp ../git-download ./
+   49  ls -la
+   50  nano git-upload
+   51  ls -l
+   52  cat git-upload
+   53  git-upload
+   54  history > history_20170921.txt

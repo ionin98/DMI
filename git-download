@@ -1,0 +1,3 @@
+#!/bin/bash
+git clone https://github.com/ionin98/DMI.git
+
