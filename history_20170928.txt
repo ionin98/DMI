@@ -1,0 +1,60 @@
+    1  ls -la
+    2  firefox &
+    3  git clone
+    4  git clone https://github.com/ionin98/DMI.git
+    5  ls -l
+    6  cd DMI
+    7  pwd
+    8  ls -l
+    9  nano shell_examples.sh
+   10  cat shell_examples.sh 
+   11  shell_examples.sh
+   12  pwd
+   13  /tmp/guest-DC0M4n@sc108
+   14* /
+   15  /tmp/guest-DC0M4n@sc108/shell_examples_.sh
+   16  ~ /DMI/
+   17  pwd
+   18  ls -la
+   19  /tmp/guest-DC0M4n/shell_examples_.sh
+   20  /tmp/guest-DC0M4n/shell_examples.sh
+   21  /tmp/guest-DC0M4n/DMI/shell_examples.sh
+   22  ~/DMI/shell_examples.sh
+   23  ./shell_examples.sh
+   24  ls -la
+   25  chmod 744 shell_examples.sh 
+   26  ls -l
+   27  ls
+   28  ./shell_examples.sh
+   29  cat shell_examples.sh 
+   30  nano shell_examples.sh 
+   31  ./shell_examples.sh
+   32  cat shell_examples.sh 
+   33  ./shell_examples.sh 
+   34  nano shell_examples.sh 
+   35  ./shell_examples.sh 
+   36  readonly variable
+   37  nano shell_examples.sh 
+   38  cat shell_examples.sh 
+   39  echo $0
+   40  nano shell_examples.sh 
+   41  echo $0
+   42  ./shell_examples.sh 
+   43  ~/shell_examples.sh 
+   44  echo $#
+   45  nano shell_examples.sh 
+   46  ./shell_examples.sh 
+   47  ./shell_examples.sh arg1
+   48  ./shell_examples.sh arg1 arg2
+   49  ./shell_examples.sh arg1 arg2 arg3
+   50  nano shell_examples.sh 
+   51  ./shell_examples.sh 
+   52  ./shell_examples.sh arg1
+   53  ./shell_examples.sh arg1 arg2
+   54  ./shell_examples.sh arg1 arg2 arg3
+   55  nano shell_examples.sh 
+   56  ./shell_examples.sh arg1 arg2 arg3
+   57  nano shell_examples.sh 
+   58  ./shell_examples.sh arg1 arg2 arg3
+   59  nano git-upload
+   60  history > history_20170928.txt
