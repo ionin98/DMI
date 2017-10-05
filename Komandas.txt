@@ -1,0 +1,53 @@
+cd-Mainit darba direktoriju ,patiet uz citu mapi
+
+chmod 744-
+
+cat-Parada vai nolasa to kas atrodas mape
+
+cp- Kopet Failu
+
+echo-Parada tikko uzrakstito tekstu
+
+git init-Izveidot jaunu git repozitariju vai inicializet esojoso
+
+firefox-Atver firefox interneta parluku
+
+history-parada veiktu komandu vesturi
+
+ls-Direktorija satura saraksts
+
+ls -l - Direktorija satura saraksts izmantojot gara sarakstu formatu.
+
+la -la- Direktorija satura saraksts kas parada pilnigi visus failus
+
+mkdir-Izveido mapi
+
+mv-Parvieto failus
+
+man-PArada ko var darit ar noteikto komandu
+
+nano-Teksta redaktors
+
+pwd-parada tagadejo atrashanas vietu
+
+rmdir-Izdesa mapi
+
+rm-Dzes failus vai direktorijus.
+
+where is-parada kur atrodas konkrets fails
+
+$PATH-Norada celu
+
+~-adgriez tevi sakuma pozicija.
+
+git add-Pievienot faila saturu
+
+git config-Uzstadit glabatuvi un tas opcijas
+
+git commit-ierakstit izmainjas repozitarija
+
+git remote add origin-Norada,kur velies novietot savus failus.
+
+git push origin master-Atjaujina git noradito repozitariju ar terminala failiem
+
+git clone-Parkope git repozitariju uz terminalu.
