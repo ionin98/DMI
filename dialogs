@@ -1,0 +1,17 @@
+x#!/bin/bash
+
+echo "Imput a:"
+read a
+echo "Imput b:"
+read b
+echo "Imput c:"
+read c
+
+if [ $a -gt $b ]
+then
+ if [ $a -gt $c ]
+ then
+  echo *$a >$b un $a >$c*
+ fi
+fi
+
