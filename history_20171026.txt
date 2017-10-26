@@ -1,0 +1,62 @@
+    1  cd DMI
+    2  nano if.sh
+    3  chmod 744 if.sh 
+    4  ./if.sh 10
+    5  nano if.sh 
+    6  ./if.sh 10
+    7  nano if.sh 
+    8  ./if.sh 10
+    9  ./if.sh -10
+   10  nano if.sh 
+   11  cat if.sh 
+   12  nano if.sh 
+   13  ./if.sh 10
+   14  ./if.sh -10
+   15  nano if.sh 
+   16  ./if.sh 10
+   17  clear
+   18  ./if.sh 10
+   19  nano if.sh 
+   20  ./if.sh 10
+   21  nano if.sh 
+   22  ./if.sh 10
+   23  nano if.sh 
+   24  ./if.sh 10
+   25  ./if.sh -10
+   26  nano if.sh 
+   27  ./if.sh 10
+   28  nano if.sh 
+   29  ./if.sh 10
+   30  nano if.sh 
+   31  ./if.sh 10
+   32  nano if.sh 
+   33  ./if.sh 10
+   34  nano if.sh 
+   35  clear
+   36  ./if.sh 10
+   37  nano if.sh 
+   38  ./if.sh 10
+   39  nano if.sh 
+   40  ./if.sh 10
+   41  ./if.sh -10
+   42  ./if.sh 0
+   43  nano if.sh 
+   44  ./if.sh 0
+   45  nano if.sh 
+   46  nano array.sh
+   47  ./array.sh
+   48  nano array.sh
+   49  clear
+   50  ch mod array.sh
+   51  chmod 744 array.sh
+   52  ./array.sh
+   53  nano array.sh
+   54  ./array.sh 1
+   55  ./array.sh -1
+   56  nano array.sh
+   57  ./array.sh -1
+   58  ./array.sh -1 5 6 56 85 9 5
+   59  ./array.sh -1 5 6 56
+   60  clear
+   61  history
+   62  history > history_20171026.txt
