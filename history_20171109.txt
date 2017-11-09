@@ -1,0 +1,51 @@
+    1  git clone https://github.com/ionin98/DMI
+    2  cd DMI
+    3  ls -l
+    4  pwd
+    5  cd PHYTON
+    6  cd PYTHON
+    7  nano  variables
+    8  ./variables
+    9  ch mod
+   10  ch mod 744 variables
+   11  chmod 744 variables
+   12  ./variables 
+   13  nano variables 
+   14  ./variables 
+   15  nano variables 
+   16  ./variables 
+   17  nano variables 
+   18  ./variables 
+   19  nano variables 
+   20  ./variables 
+   21  nano dialogs.py
+   22  ./variables 
+   23  nano dialogs.py
+   24  ./dialogs.py
+   25  chmod 744 dialogs.py
+   26  ./dialogs.py
+   27  nano dialogs.py
+   28  ./dialogs.py
+   29  nano dialogs.py
+   30  ./dialogs.py
+   31  nano dialogs.py
+   32  ./dialogs.py
+   33  2
+   34  clear
+   35  nano dialogs.py
+   36  clear
+   37  ./dialogs.py
+   38  2
+   39  ./dialogs.py
+   40  nano dialogs.py
+   41  ./dialogs.py
+   42  nano dialogs.py
+   43  ./dialogs.py
+   44  nano dialogs.py 
+   45  ./dialogs.py
+   46  nano dialogs.py 
+   47  ./dialogs.py
+   48  nano dialogs.py 
+   49  cd ...
+   50  cd ..
+   51  history > history_20171109.txt
