@@ -1,0 +1,5 @@
+    1  firefox
+    2  cd PYTHON
+    3  CD ..
+    4  cd ..
+    5  history > history_20171123.txt
